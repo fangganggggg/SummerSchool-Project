@@ -10,4 +10,4 @@ Lab （使用Sobel算子提取Leo的边缘）
 
 其中 他们使用的顺序是固定的 不能够颠倒
 首先 使用Vitis_HLS对所写代码进行仿真和综合（结果在report均已呈现），最终导出RTL的压缩包以便后续Vivado的使用
-然后 使用Vivado对上面得到的RTL
+然后 使用Vivado对上面得到的RTL（export文件夹），然后按照教程操作最后
